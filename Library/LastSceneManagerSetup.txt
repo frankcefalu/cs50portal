@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/PortalScene_MyLevel.unity
+  isLoaded: 1
+  isActive: 1
